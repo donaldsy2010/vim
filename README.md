@@ -1,5 +1,6 @@
 ##我的vimrc
-    
+自动补全文件的目录vim / bundle / snipmate.vim / snippets / 
+
 ```vim
 set number
 set helplang=cn
